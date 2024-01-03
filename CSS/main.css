@@ -1,41 +1,45 @@
-.container{
+.container {
     border: 3px solid rgb(30, 45, 218);
     padding: 15px;
 
 }
-.container-fluide{
+
+/* .container-fluide {
     border: 3px solid red;
     padding: 15px;
 
 }
-.col{
+
+.col {
     border: 3px solid rgb(248, 63, 63);
 }
 
-.col-1{
+.col-1 {
     border: 2px solid rgb(248, 63, 165);
-    
-}
-.col-3{
-    border: 2px solid rgb(248, 63, 165);
-    
+
 }
 
-.col-5{
+.col-3 {
     border: 2px solid rgb(248, 63, 165);
-    
-}
-.col-7{
-    border: 2px solid rgb(248, 63, 165);
-    
-}
-.col-8{
-    border: 2px solid rgb(248, 63, 165);
-    
-}
-.col-4{
-    border: 2px solid rgb(248, 63, 165);
-    
+
 }
 
+.col-5 {
+    border: 2px solid rgb(248, 63, 165);
 
+}
+
+.col-7 {
+    border: 2px solid rgb(248, 63, 165);
+
+}
+
+.col-8 {
+    border: 2px solid rgb(248, 63, 165);
+
+}
+
+.col-4 {
+    border: 2px solid rgb(248, 63, 165);
+
+} */
